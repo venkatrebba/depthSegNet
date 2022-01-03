@@ -19,7 +19,9 @@ NYUdv2 dataset was used for training.
 ## References
 SegNet: http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html
 Unsupervised Monocular Depth Estimation with Left-Right Consistency: https://arxiv.org/pdf/1609.03677.pdf
+
 https://github.com/mrharicot/monodepth
+
 https://github.com/hari-sikchi/DepthSegnet
 
 
